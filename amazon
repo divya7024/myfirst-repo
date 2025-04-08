@@ -1,0 +1,4 @@
+GIT STASH: Using the git stash command, developers can temporarily save changes made
+in the working directory. It allows them to quickly switch contexts when they are not quite
+ready to commit changes. And it allows them to more easily switch between branches.
+Generally, the stash's meaning is "store something safely in a hidden place." 
